@@ -1,0 +1,94 @@
+2025-06-29 02:11:07,797 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:11:07,803 - INFO - ------
+2025-06-29 02:11:07,804 - INFO - logging in using static token
+2025-06-29 02:11:08,519 - INFO - Shard ID None has connected to Gateway (Session ID: d646ffaf59a4218f8dee867a9c8fe26d).
+2025-06-29 02:11:10,538 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:11:10,539 - INFO - Generated random lyric at: 02:11:10.539601
+2025-06-29 02:12:33,964 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:12:33,969 - INFO - ------
+2025-06-29 02:12:33,970 - INFO - logging in using static token
+2025-06-29 02:12:34,800 - INFO - Shard ID None has connected to Gateway (Session ID: a91021df9c15c18a67861378c4661ee4).
+2025-06-29 02:12:36,801 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:12:36,802 - INFO - Generated random lyric at: 02:12:36.802096
+2025-06-29 02:19:14,119 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:19:14,128 - INFO - ------
+2025-06-29 02:19:14,130 - INFO - logging in using static token
+2025-06-29 02:19:14,783 - INFO - Shard ID None has connected to Gateway (Session ID: dd6a73ce10613a578c006233ec75487d).
+2025-06-29 02:19:16,808 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:19:16,809 - INFO - Generated random lyric at: 02:19:16.809198
+2025-06-29 02:22:35,514 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:22:35,517 - INFO - ------
+2025-06-29 02:22:35,518 - INFO - logging in using static token
+2025-06-29 02:22:36,172 - INFO - Shard ID None has connected to Gateway (Session ID: 20c9d966cfd0c952918538f17ba24d2d).
+2025-06-29 02:22:38,186 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:22:38,186 - ERROR - Unhandled exception in internal background task 'generate_random_lyric'.
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\tasks\__init__.py", line 241, in _loop
+    await self.coro(*args, **kwargs)
+  File "C:\scatman\bot.py", line 59, in generate_random_lyric
+    random_row = random_row = random.choice(lyrics)
+                              ^^^^^^^^^^^^^
+AttributeError: 'Command' object has no attribute 'choice'
+2025-06-29 02:26:12,288 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:26:12,291 - INFO - ------
+2025-06-29 02:26:12,292 - INFO - logging in using static token
+2025-06-29 02:26:13,038 - INFO - Shard ID None has connected to Gateway (Session ID: b6f3f6642ee723800cd58d318110075e).
+2025-06-29 02:26:15,061 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:26:15,061 - ERROR - Unhandled exception in internal background task 'generate_random_lyric'.
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\tasks\__init__.py", line 241, in _loop
+    await self.coro(*args, **kwargs)
+  File "C:\scatman\bot.py", line 55, in generate_random_lyric
+    random_row = random.choice(lyrics)
+                 ^^^^^^^^^^^^^
+AttributeError: 'Command' object has no attribute 'choice'
+2025-06-29 02:27:03,819 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:28:08,424 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:28:08,427 - INFO - ------
+2025-06-29 02:28:08,428 - INFO - logging in using static token
+2025-06-29 02:28:09,164 - INFO - Shard ID None has connected to Gateway (Session ID: 8d7af95267404f04a31f17fc267e429f).
+2025-06-29 02:28:11,169 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:28:11,169 - ERROR - Unhandled exception in internal background task 'generate_random_lyric'.
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\tasks\__init__.py", line 241, in _loop
+    await self.coro(*args, **kwargs)
+  File "c:\scatman\bot.py", line 54, in generate_random_lyric
+    random_row = random.choice(lyrics)
+                 ^^^^^^^^^^^^^
+AttributeError: 'Command' object has no attribute 'choice'
+2025-06-29 02:28:49,442 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:28:49,445 - INFO - ------
+2025-06-29 02:28:49,445 - INFO - logging in using static token
+2025-06-29 02:28:50,013 - INFO - Shard ID None has connected to Gateway (Session ID: f4fdd05f27eb34a624a563dc7ac4b534).
+2025-06-29 02:28:52,008 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:28:52,009 - INFO - Generated random lyric at: 02:28:52.009357
+2025-06-29 02:29:33,691 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 02:29:33,694 - INFO - ------
+2025-06-29 02:29:33,695 - INFO - logging in using static token
+2025-06-29 02:29:34,330 - INFO - Shard ID None has connected to Gateway (Session ID: c63135378594a207b975c84ad0258d02).
+2025-06-29 02:29:36,339 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 02:29:36,339 - INFO - Generated random lyric at: 02:29:36.339284
+2025-06-29 22:45:39,949 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 22:45:39,954 - INFO - ------
+2025-06-29 22:45:39,956 - INFO - logging in using static token
+2025-06-29 22:45:40,709 - INFO - Shard ID None has connected to Gateway (Session ID: 61c95d8a629a4c004828fbf03c4bf466).
+2025-06-29 22:45:42,868 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 22:45:42,868 - INFO - Generated random lyric at: 22:45:42.868915
+2025-06-29 22:46:34,347 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 22:46:34,358 - INFO - ------
+2025-06-29 22:46:34,359 - INFO - logging in using static token
+2025-06-29 22:46:35,217 - INFO - Shard ID None has connected to Gateway (Session ID: 4c164163ef48090fa8ddace4fe53ba04).
+2025-06-29 22:46:37,294 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 22:46:37,294 - INFO - Generated random lyric at: 22:46:37.294151
+2025-06-29 23:02:20,597 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 23:02:20,609 - INFO - ------
+2025-06-29 23:02:20,612 - INFO - logging in using static token
+2025-06-29 23:02:21,279 - INFO - Shard ID None has connected to Gateway (Session ID: 56cc771acd6a91100bc8c267070c5633).
+2025-06-29 23:02:23,464 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 23:02:23,465 - INFO - Generated random lyric at: 23:02:23.465404
+2025-06-29 23:03:07,063 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-29 23:03:07,076 - INFO - ------
+2025-06-29 23:03:07,078 - INFO - logging in using static token
+2025-06-29 23:03:07,770 - INFO - Shard ID None has connected to Gateway (Session ID: 01d0f53a2fd1de476c14c5aaab92ed13).
+2025-06-29 23:03:09,847 - INFO - Logged in as Scatman John#1630 (ID: 1388757258896146523)
+2025-06-29 23:03:09,847 - INFO - Generated random lyric at: 23:03:09.847398
